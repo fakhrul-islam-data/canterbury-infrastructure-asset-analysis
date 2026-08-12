@@ -1,6 +1,6 @@
 # Canterbury Infrastructure Asset Analysis
 
-A comprehensive cartographic and spatial analysis visualizing critical infrastructure networks and recovery plan areas across the Canterbury region, New Zealand.
+A comprehensive cartographic and spatial analysis visualising critical infrastructure networks and recovery plan areas across the Canterbury region, New Zealand.
 
 ---
 
